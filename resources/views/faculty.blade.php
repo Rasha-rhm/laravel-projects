@@ -8,6 +8,17 @@
     <title>FACULTY</title>
 </head>
 <body>
+<nav class="navbar navbar-dark bg-dark">
+  <!-- Navbar content -->
+</nav>
+
+<nav class="navbar navbar-dark bg-primary">
+  <!-- Navbar content -->
+</nav>
+
+<nav class="navbar navbar-light" style="background-color: #e3f2fd;">
+  <!-- Navbar content -->
+</nav>
 <div class="container">
     <div class="row">
         <div class="col col-12 col-sm-6 col-md-4">

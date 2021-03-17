@@ -14,7 +14,6 @@
 <div class="col col-12 col-sm-6 col-md-4">
 </div>
 <div class="col col-12 col-sm-6 col-md-4">
-<h1>WELCOME</h1>
 <table class="table table-borderless">
     <tr>
         <td>NAME</td>
